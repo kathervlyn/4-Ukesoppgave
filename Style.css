@@ -1,0 +1,24 @@
+Body {
+    margin-left: 20px;
+    height: 100vh;
+}
+.Card {
+    width: 500px;
+    background-color: darkgray;
+    border: 1px solid darkgray;
+    margin: 10px;
+}
+.InnerCard {
+    padding: 10px;
+}
+.Header {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 1% 0;
+    border: 1px solid Gray;
+    user-select: none;
+}
+.Green {
+    background-color: #3cba52;
+}
